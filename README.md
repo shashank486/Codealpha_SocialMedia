@@ -3,7 +3,7 @@
 #below command to create user adminstration set username and password
 python manage.py createsuperuser
 #
-python manage.py makemigrations
-python manage.py migrate
-#to run server
-python manage.py runserver
+python manage.py makemigrations\\
+python manage.py migrate\\
+#to run server\\
+python manage.py runserver\\
